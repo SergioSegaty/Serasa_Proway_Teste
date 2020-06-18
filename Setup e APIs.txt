@@ -1,0 +1,49 @@
+Para fazer o Setup do Backend -- >
+
+Certificar-se que o App Url dentro das Configurações do App  é 'http://localhost:59044'
+
+- Entrar na pasta Serasa_Proway_Teste e abrir o arquivo .SLN
+
+- Iniciar o ISS - > Esperar aproximadamente uns 20 segundos para ser feito os Builders.
+
+
+Para fazer o Setup do FrontEnd -- >
+
+[Requisitos]
+npm, yarn ou outro.
+
+____
+
+
+ - entrar na pasta react-app, abrir o CMD e dar um 'npm start' para inicar como Desenvolvimento.
+
+
+----------------------
+
+
+APIs :
+
+	DebitoController
+		- // Post - api/Debitos (Usei apenas para fazer os meus testes iniciais)
+
+		- // Get - api/Debitos ( Usei apenas para fazer os meus testes iniciais )
+
+	NotasFiscaisController
+		- // Post - api/NotasFiscais (Usei apenas para fazer os meus testes iniciais)
+
+		- // Get - api/NotasFiscais ( Usei apenas para fazer os meus testes iniciais )
+
+	EmpresasController
+		- // Get/Id - api/Empresas/{id}
+			-> Pegar a Empresa por Id
+
+		- // Post - api/Empresas/EnviarArquivo/{id}
+			-> Postar o Arquivo Seed por Id da Empresa
+
+		- // GetTexto - api/Empresas/EscreverTodos
+			-> Fazer o download do sumário das empresas em texto
+
+		- // GetAll - api/Empresas
+			-> Pegar todas as empresas para popular a Tabela e o Select.
+
+

@@ -1,0 +1,8 @@
+C:\Users\Usuario\source\repos\Serasa_Proway_Teste\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\Usuario\source\repos\Serasa_Proway_Teste\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Usuario\source\repos\Serasa_Proway_Teste\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Usuario\source\repos\Serasa_Proway_Teste\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Serasa_Proway_Teste\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Serasa_Proway_Teste\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Usuario\source\repos\Serasa_Proway_Teste\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Usuario\source\repos\Serasa_Proway_Teste\Dominio\obj\Debug\netcoreapp3.1\Dominio.csprojAssemblyReference.cache
