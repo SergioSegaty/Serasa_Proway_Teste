@@ -76,7 +76,7 @@ const Empresas = ({ classes, ...props }) => {
             <Paper elevation={3}>
                 <Grid container>
                     <Grid item xs={12}>
-                        <div>Lista de Empresas</div>
+                        <div>Ranking de Empresas</div>
                         <TableContainer>
                             <Table>
                                 <TableHead className={classes.root}>
