@@ -4,8 +4,8 @@ Teste Serasa e ProWay
 Instalação
 ----------
 
-[Requisitos] Para fazer o Setup do Backend -- \>
-
+ Para fazer o Setup do Backend -- \>
+    [Requisitos]
     Visual Studio 2019
 
     Entrar na pasta Serasa_Proway_Teste e abrir o arquivo .SLN
@@ -14,8 +14,8 @@ Instalação
 
     - Iniciar o ISS - > Esperar aproximadamente 20 segundos para serem feitos os Builders.
 
-[Requisitos] Para fazer o Setup do FrontEnd -- \>
-
+ Para fazer o Setup do FrontEnd -- \>
+    [Requisitos]
     npm, yarn ou outro.
 
 
