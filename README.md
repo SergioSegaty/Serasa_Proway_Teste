@@ -13,6 +13,7 @@ Instalação
     Certificar-se que o App Url dentro das Configurações do App  é 'http://localhost:59044'
 
     - Abrir Ferramentas -> NuGet Package Manager -> NuGet Console 
+      - Default project: Servicos
       - Escrever Add-Migration "mig inical"
       - Escrever Update-Database.
 	Não é necessário, a chamada da Api automaticamente executa os Builders, mas demora.
