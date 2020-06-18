@@ -12,7 +12,12 @@ Instalação
 
     Certificar-se que o App Url dentro das Configurações do App  é 'http://localhost:59044'
 
-    - Iniciar o ISS - > Esperar aproximadamente 20 segundos para serem feitos os Builders.
+    - Abrir Ferramentas -> NuGet Package Manager -> NuGet Console 
+      - Escrever Add-Migration "mig inical"
+      - Escrever Update-Database.
+	Não é necessário, a chamada da Api automaticamente executa os Builders, mas demora.
+
+    - Iniciar o ISS.
 
  Para fazer o Setup do FrontEnd -- \>
     [Requisitos]
