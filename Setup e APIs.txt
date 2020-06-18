@@ -15,7 +15,8 @@ npm, yarn ou outro.
 ____
 
 
- - entrar na pasta react-app, abrir o CMD e dar um 'npm start' para inicar como Desenvolvimento.
+ - entrar na pasta react-app, abrir o CMD e escrever 'npm install' e 
+depois escrever 'npm start' para inicar como Desenvolvimento.
 
 
 ----------------------
