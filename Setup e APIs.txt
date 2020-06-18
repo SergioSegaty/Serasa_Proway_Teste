@@ -1,3 +1,13 @@
+Para usar o Teste basta escolher a Empresa e adicionar o Arquivo Seed.
+
+O arquivo está estruturado como um Json, ele vai ser deserializado no Backend.
+
+{
+ 	"NumeroNotasFiscais": 3,
+	"NumeroDebitos": 1
+}
+
+
 Para fazer o Setup do Backend -- >
 
 Certificar-se que o App Url dentro das Configurações do App  é 'http://localhost:59044'
