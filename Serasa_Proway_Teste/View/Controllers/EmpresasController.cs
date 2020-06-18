@@ -82,7 +82,7 @@ namespace View.Controllers
             }
             catch (InvalidOperationException)
             {
-                return StatusCode(StatusCodes.Status500InternalServerError);
+                return BadRequest();
             }
 
             var objeto = new ArquivoDTO();

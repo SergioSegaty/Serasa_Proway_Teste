@@ -1,0 +1,33 @@
+Backend: .Net Core (C#)
+
+
+- Api
+	-Controllers
+		-DebitosController
+		-EmpresasController
+		-NotasFiscaisController
+	
+- Dominio
+	- Modelos
+		- Base
+		- Debito
+		- Empresa
+		- NotaFiscal
+		- ArquivoDTO
+		- ValidadorStruct
+- Servicos
+	- Interfaces
+		- IDebitoRepository
+		- IEmpresaRepository
+		- INotasFiscaisRepository
+	- Repositorios
+		- DebitoRepository
+		- EmpresaRepository
+		- NotasFiscaisRepository
+	- ViewModel
+		- EmpresaRatingDbContext
+
+- TesteUnidade
+	- TesteDebito
+	- TesteNotaFiscal
+
