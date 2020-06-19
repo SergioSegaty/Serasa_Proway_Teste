@@ -3,8 +3,10 @@
 
 ## Instalação
 
-[Requisitos] Para fazer o Setup do Backend -- >
+Para fazer o Setup do Backend -- >
+
 ```
+[Requisitos]
 Visual Studio 2019
 
 Entrar na pasta Serasa_Proway_Teste e abrir o arquivo .SLN
@@ -17,8 +19,9 @@ Certificar-se que o App Url dentro das Configurações do App  é 'http://localh
 
 
 
-[Requisitos] Para fazer o Setup do FrontEnd -- >
+Para fazer o Setup do FrontEnd -- >
 ```
+[Requisitos]
 npm, yarn ou outro.
 
 
@@ -27,7 +30,7 @@ npm, yarn ou outro.
 depois escrever 'npm start' para inicar como Desenvolvimento.
 ```
 
-## Usando o Site
+# Usando o Site
 
 Para usar o Teste basta escolher a Empresa e adicionar o Arquivo Seed.
 
@@ -39,7 +42,7 @@ O arquivo está estruturado como um Json, ele vai ser deserializado no Backend.
 }
 ```
 
-## APIs 
+#APIs 
 ```
 	DebitoController
 		- // Post - api/Debitos (Usei apenas para fazer os meus testes iniciais)

@@ -115,6 +115,7 @@ const Empresas = ({ classes, ...props }) => {
                                 <TableHead className={classes.root}>
                                     <TableRow>
                                         <TableCell>Pontuação</TableCell>
+                                        <TableCell>Codigo</TableCell>
                                         <TableCell>Nome</TableCell>
                                         <TableCell>Notas Fiscais neste mes</TableCell>
                                         <TableCell>Debitos neste mes</TableCell>
@@ -125,6 +126,7 @@ const Empresas = ({ classes, ...props }) => {
                                         props.listaEmpresas.map((record, index) => {
                                             return (<TableRow key={index} hover>
                                                 <TableCell>{record.rating}</TableCell>
+                                                <TableCell>{record.id}</TableCell>
                                                 <TableCell>{record.nome}</TableCell>
                                                 <TableCell>{record.notasEsteMes}</TableCell>
                                                 <TableCell>{record.debitosEsteMes}</TableCell>
